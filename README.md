@@ -1,9 +1,7 @@
 # React Facts site
 
 ## Description
-This site reads the travel destinations from an array of objects located in file data.js - Each object representing a travel destination. React JSX elements are dynamically created from the array and then presented on the page. A Google Maps link is provided for each destination.
-
-The actual content is from my own travels.
+A basic site consisting of two React components (Navbar and Main) which appearance could be toggled between Light and Dark. Se pictures below.
 <br/>
 <br/>
 <img src="dark-mode.png" alt="Screenshot." width="300px"/>
@@ -17,7 +15,7 @@ The actual content is from my own travels.
 - React
 
 ## Live link
-The Travel Journal is deployed here:
-[https://serenander-travel-journal.netlify.app](https://serenander-travel-journal.netlify.app)
+The site is deployed here:
+[https://toms-reactfacts.netlify.app](https://toms-reactfacts.netlify.app)
 
 Please feel free to visit the site!
