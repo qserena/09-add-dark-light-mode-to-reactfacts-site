@@ -8,7 +8,6 @@ The actual content is from my own travels.
 <br/>
 <img src="dark-mode.png" alt="Screenshot." width="300px"/>
 
-<br/>
 <img src="light-mode.png" alt="Screenshot." width="300px"/>
 
 ## Technologies
