@@ -1,8 +1,21 @@
-# React + Vite
+# React Facts site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This site reads the travel destinations from an array of objects located in file data.js - Each object representing a travel destination. React JSX elements are dynamically created from the array and then presented on the page. A Google Maps link is provided for each destination.
 
-Currently, two official plugins are available:
+The actual content is from my own travels.
+<br/>
+<br/>
+<img src="dark-mode.png" alt="Screenshot." width="600px"/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Live link
+The Travel Journal is deployed here:
+[https://serenander-travel-journal.netlify.app](https://serenander-travel-journal.netlify.app)
+
+Please feel free to visit the site!
