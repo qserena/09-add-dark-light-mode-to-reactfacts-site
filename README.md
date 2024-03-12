@@ -21,7 +21,7 @@ The site is deployed here:
 Please feel free to visit the site!
 
 ## What I learned
-Where to put the **state**. In this case state `darkMode` is put in App component, which is the parent component of Navbar and Main components. 
+Where to put the **state**. In this case state `darkMode` is put in App component, which is the parent component of Navbar and Main. 
 
 Function `setDarkMode` is located in App but passed as a prop down to Navbar component where it is called from an onClick event on the toggle switch.
 
