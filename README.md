@@ -25,4 +25,4 @@ Where to put the **state**. In this case state `darkMode` belongs to the App com
 
 Function `setDarkMode` is located in App but passed as a prop down to Navbar component where it is called from an onClick event on the toggle switch. In this way the state is set from the child component.
 
-Then darkMode in passed as a prop down to both Navbar and Main components to set the mode.
+Then darkMode in passed as a prop down to both Navbar and Main components to really set the mode with help of CSS.
