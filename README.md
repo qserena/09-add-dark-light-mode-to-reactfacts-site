@@ -1,7 +1,7 @@
 # React Facts site
 
 ## Description
-A basic site presenting some facts about React. The page consists of two React components (Navbar and Main) which appearances could be toggled between Light and Dark mode, using the toggle switch at the upper right corner. Se images below.
+A basic site presenting some facts about React. The page consists of two React components (Navbar and Main) which appearances could be toggled between Light and Dark mode, using the toggle switch at the upper right corner. See images below.
 <br/>
 <br/>
 <img src="dark-mode.png" alt="Screenshot." width="300px"/>
