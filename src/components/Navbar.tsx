@@ -1,4 +1,4 @@
-import smallReactLogo from '../images/react-icon-small.png'
+import smallReactLogo as img from '../images/react-icon-small.png'
 
 export type NavbarProps = {
     darkMode: boolean
