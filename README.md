@@ -13,6 +13,7 @@ A basic site presenting some facts about React. The page consists of two React c
 - CSS
 - JavaScript
 - React
+- TypeScript
 
 ## Live link
 The site is deployed here:
@@ -26,3 +27,5 @@ Where to put the **state**. In this case state `darkMode` belongs to the App com
 Function `toggleDarkMode` is located in App but passed as a prop down to Navbar component where it is called from an onClick event on the toggle switch. In this way the state is set from the child component.
 
 darkMode is then passed as a prop down to both Navbar and Main to really set the mode with help of CSS.
+
+As an additional challenge I also migrated this app to TypeScript.
