@@ -3,18 +3,18 @@ import Navbar from './components/Navbar'
 import Main from './components/Main'
 
 function App() {
-	const [darkMode, setDarkMode] = useState(false)
+    const [darkMode, setDarkMode] = useState(false)
 
-	function toggleDarkMode() {
-		setDarkMode((prevMode) => !prevMode)
-	}
+    function toggleDarkMode(): void {
+        setDarkMode((prevMode) => !prevMode)
+    }
 
-	return (
-		<div className="container">
-			<Navbar darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
-			<Main darkMode={darkMode} />
-		</div>
-	)
+    return (
+        <div className="container">
+            <Navbar darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
+            <Main darkMode={darkMode} />
+        </div>
+    )
 }
 
 export default App
