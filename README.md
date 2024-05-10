@@ -28,4 +28,4 @@ Function `toggleDarkMode` is located in App but passed as a prop down to Navbar 
 
 darkMode is then passed as a prop down to both Navbar and Main to really set the mode with help of CSS.
 
-As an additional challenge I also migrated this app to TypeScript.
+I also added TypeScript to this project.
